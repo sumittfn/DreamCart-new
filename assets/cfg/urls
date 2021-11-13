@@ -1,0 +1,7 @@
+https://vidurtest.akolajanatabank.com
+
+{
+  "base_url": "http://uat.Dreamcartservices.com/",
+  "api_base_url": "http://uat.Dreamcartservices.com/api/",
+  "google_maps_key" : "AIzaSyBEIo0LRQMJ-lr1iGytf29uWhHrd6oJ0Yw"
+}

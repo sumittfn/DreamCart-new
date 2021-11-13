@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "882429748974",
+    "project_id": "dreamcart-1a538",
+    "storage_bucket": "dreamcart-1a538.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:882429748974:android:5f29b11100be9b1d6e75ff",
+        "android_client_info": {
+          "package_name": "com.portalperfect.dreamcart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "882429748974-05563p2uolisufpe0222jn9g028q02qp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPfNY7UqqQ4SWKqJkrZYW9zHzFl1DDabI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "882429748974-05563p2uolisufpe0222jn9g028q02qp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
